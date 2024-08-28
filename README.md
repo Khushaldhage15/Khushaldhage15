@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Khushal Rajesh Dhage</h1>
 <h3 align="center">You are currently a Data Science intern at Codons Technology, having completed training and are working on various data science models and algorithms. You have a solid understanding of python and an interest in AI</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/explore/ai-robot">
