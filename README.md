@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushal Rajesh Dhage</h1>
 <h3 align="center">You are currently a Data Science intern at Codons Technology, having completed training and are working on various data science models and algorithms. You have a solid understanding of python and an interest in AI</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/foc-future-of-content-ai-dance-39wFTeHR6424Pjw8TO">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/foc-future-of-content-ai-dance-39wFTeHR6424Pjw8TO](https://thenetworkgarden.blogs.com/.a/6a00d8341c285b53ef02a30d4e7b10200b-600wi)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushaldhage15&label=Profile%20views&color=0e75b6&style=flat" alt="khushaldhage15" /> </p>
 
