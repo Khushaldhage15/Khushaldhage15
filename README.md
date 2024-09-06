@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushal Rajesh Dhage</h1>
 <h3 align="center">You are currently a Data Science intern at Codons Technology, having completed training and are working on various data science models and algorithms. You have a solid understanding of python and an interest in AI</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcorre-foc&psig=AOvVaw1UFmA8j-5wlVQB8HnCQlvI&ust=1725713790860000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCJ2P-urogDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamelight.io%2F&psig=AOvVaw1UFmA8j-5wlVQB8HnCQlvI&ust=1725713790860000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCJ2P-urogDFQAAAAAdAAAAABAZ)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5453050-AI-illustration&psig=AOvVaw1UFmA8j-5wlVQB8HnCQlvI&ust=1725713790860000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCJ2P-urogDFQAAAAAdAAAAABAh">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushaldhage15&label=Profile%20views&color=0e75b6&style=flat" alt="khushaldhage15" /> </p>
 
